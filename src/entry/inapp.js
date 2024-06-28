@@ -184,6 +184,8 @@ export function inappBlocksGuide () {
         'BLOCK_LED_EYES_COLOUR_DESCRIPTION',
         'BLOCK_CELEBRATE',
         'BLOCK_CELEBRATE_DESCRIPTION',
+        'BLOCK_PLAY_MINIONSASSEMBLE_SOUND',
+        'BLOCK_PLAY_MINIONSASSEMBLE_SOUND_DESCRIPTION',
         'BLOCK_PLAY_CONFUSION_SOUND',
         'BLOCK_PLAY_CONFUSION_SOUND_DESCRIPTION',
         'BLOCK_PLAY_DISBELIEF_SOUND',
@@ -209,7 +211,7 @@ export function inappBlocksGuide () {
     ];
 
 
-    
+
 
     for (let i = 0; i < blockDescriptionKeys.length; i++) {
         try {
